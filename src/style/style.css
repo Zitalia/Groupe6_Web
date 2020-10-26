@@ -1,0 +1,25 @@
+h1{
+color: white;
+text-align: center;
+}
+
+body{
+background-color:Black;
+min-height:100em;
+max-height:100em;
+min-width:100em;
+max-width:100em;
+}
+
+button{
+background-color: green;
+height:10em;
+width:10em;
+margin-left: 45%;
+vertical-align:center;
+}
+
+#centrage{
+  width: 100em;
+  height: 100em;
+}
